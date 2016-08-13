@@ -12,12 +12,7 @@ body {
     font-family:'Open Sans', sans-serif;
     font-size:14px;
     font-weight:400;
-
-}
-.divider{
-  width:5px;
-  height: auto;
-  display: inline-block;
+  
 }
 
 h1,
@@ -93,12 +88,11 @@ a:focus {
   margin-right: -20px;
 }
 .portfolio-filter {
-  margin-bottom: 15px;
-  margin-top: 15px;
+  margin-bottom: 50px;
   text-align: center;
 }
 .portfolio-filter > li {
-  display:list-item;
+  display: inline-block;
 }
 .portfolio-items > li {
   float: left;
@@ -116,7 +110,7 @@ a:focus {
   background: #fff;
   padding: 10px;
   border:1px solid #E8EAEE;
-
+  
 }
 .portfolio-item img {
   width: 100%;
@@ -219,7 +213,7 @@ color: #fff;
     .flot-nav {
     float:left;
 }
-
+     
 }
 
 @media (max-width: 1090px) {
@@ -228,12 +222,8 @@ max-width: 50%;
 }
 }
 
-.filter
-{
-  width: 500px;
-  height:80px;
-  margin-left:890px;
-  /*margin-right: 200px;*/
-  /*background: #006666;*/
-  /*margin:inherit;*/
-}
+
+
+
+
+

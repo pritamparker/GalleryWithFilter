@@ -2003,7 +2003,7 @@ select[multiple].input-lg {
           user-select: none;
   background-image: none;
   border: 1px solid transparent;
-  border-radius: 24px;
+  border-radius: 4px;
 }
 .btn:focus {
   outline: thin dotted;
@@ -2074,7 +2074,6 @@ fieldset[disabled] .btn-default.active {
   background-color: #333;
 }
 .btn-primary {
-  
   color: #fff;
   background-color: #428bca;
   border-color: #357ebd;
